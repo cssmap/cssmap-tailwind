@@ -7925,7 +7925,7 @@
     "will-change-contents": { "will-change": "contents" },
     "will-change-transform": { "will-change": "transform" },
 
-    "fill-none": { "fill": "{theme.none}" },
+    "fill-none": { "fill": "none" },
     "fill-inherit": { "fill": "{theme.inherit}" },
     "fill-current": { "fill": "{theme.current}" },
     "fill-transparent": { "fill": "{theme.transparent}" },
